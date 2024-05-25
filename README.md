@@ -32,7 +32,7 @@ Sample Shema:
 
 
 
-<img width="502" alt="sampleShema" src="https://github.com/alisabourii/koshar_air_purifier/assets/72344723/06ce942b-984f-4052-acd6-0b4cac84fe4d">
+<img width="314" alt="sampleShema2" src="https://github.com/alisabourii/koshar_air_purifier/assets/72344723/7d94d411-37ab-4c4d-b0ef-1e4f8bfaec58">
 
 
 
