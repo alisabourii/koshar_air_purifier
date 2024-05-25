@@ -24,3 +24,11 @@ Used Materials:
 
 
 <img width="448" alt="Ekran görüntüsü 2024-05-25 095219" src="https://github.com/alisabourii/koshar_air_purifier/assets/72344723/4fe22ca3-c502-4fd8-89ef-0002af04f35e">
+
+
+Images from the Web Page:
+
+
+
+<img width="608" alt="Ekran görüntüsü 2024-05-25 095328" src="https://github.com/alisabourii/koshar_air_purifier/assets/72344723/ab2cd9df-f330-4483-a6d2-e29385e0df77">
+
