@@ -1,4 +1,4 @@
-# koshar_air_purifier
+# Koshar Air Purifier
 In order to participate in the YFL Case 24 competition
 
 
